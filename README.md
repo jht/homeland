@@ -1,7 +1,5 @@
 
-Hello world!
-
-haha
+仅供阅读代码使用
 
 <p align="center">
   <img src="https://gethomeland.com/images/text-logo.svg" width="400" />
